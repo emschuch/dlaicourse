@@ -1,6 +1,5 @@
 
 .DS_Store
-*/.DS_Store
 
 # ignore virtual environment files
 /env
@@ -11,3 +10,6 @@
 .jupyter
 .ipynb_checkpoints
 *.pyc
+
+# ignore image files
+test_images/*
