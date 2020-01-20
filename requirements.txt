@@ -1,0 +1,8 @@
+# adding requirements here from notebooks
+numpy>=1.17.3
+tensorflow==2.0
+jupyter
+matplotlib
+opencv-python
+scipy
+pillow
